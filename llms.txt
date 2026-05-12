@@ -1,0 +1,51 @@
+# Takeover Labs
+
+> Takeover Labs is a premium B2B web design and conversion strategy studio specializing in Framer. We design conversion-focused websites and landing pages for established B2B SaaS companies and consulting firms that want clarity, authority, and enterprise-level positioning.
+
+We do not work with consumer brands, or budget-sensitive projects. We work with operators who treat their website as strategic infrastructure, not a marketing afterthought.
+
+## Services
+- B2B Website Design: Full website design and development in Framer for B2B SaaS companies and consulting firms. Focused on conversion, positioning, and enterprise credibility.
+- Landing Page Design: Conversion-focused landing pages for B2B SaaS products, GTM campaigns, and lead generation.
+- Conversion Authority Review (Takeover Roast): A 48 to 72 hour landing page audit for B2B SaaS and agency founders. Includes a full PDF breakdown, redesigned hero section, and page structure direction. Priced at $149.
+- Website Strategy: Positioning, messaging hierarchy, and information architecture for B2B companies preparing for redesign or repositioning.
+- Framer Templates: Premium Framer templates for B2B SaaS, consulting firms, and VC funds. Available on the Framer Marketplace and Contra.
+
+## Who We Serve
+- B2B SaaS companies with a live product and validated revenue
+- B2B consulting firms, strategy firms, and growth advisory businesses
+- GTM agencies and marketing agencies
+- Companies targeting mid-market or enterprise clients
+- Founders and marketing leads who understand positioning and want a website that supports their sales process
+
+## Who We Do Not Serve
+- Pre-launch or idea-stage startups
+- Consumer brands
+- Ecommerce businesses
+- Budget-sensitive projects
+- Clients looking for aesthetic-only redesigns without strategic intent
+
+## Key Pages
+- Homepage: https://takeover-labs.com
+- Takeover Roast (landing page audit service): https://takeover-labs.com/roast
+- Blog (B2B web design and conversion strategy): https://takeover-labs.com/blog
+- Templates available on Framer Marketplace: https://www.framer.com/@launchwitharyan/
+
+## Products
+- NorthBridge: Premium Framer template for VC firms and consulting businesses. $50.
+- Crucible: Premium Framer template for AI and SaaS companies. Full CMS, blog, changelog, docs, and careers. $99.
+- Praxa: Framer template for legal AI SaaS companies. $49.
+- Denver: Free Framer template for discovery and profile building.
+
+## Founder
+Aryan Tanwar, founder and principal designer at Takeover Labs. Solo operator building a premium design studio for B2B operators.
+Social: X (@launchwitharyan), LinkedIn (/in/launchwitharyan/)
+
+## Contact
+Website: https://takeover-labs.com
+Contra: https://contra.com/launchwitharyan/work
+X/Twitter: https://x.com/launchwitharyan
+YouTube: https://www.youtube.com/@launchwitharyan
+
+## About This Site
+Built entirely in Framer. Structured data (JSON-LD) implemented across all key pages. Blog updated regularly with content on B2B web design, conversion strategy, Framer, and landing page optimization.
